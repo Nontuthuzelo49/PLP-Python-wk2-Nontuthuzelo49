@@ -25,3 +25,4 @@ my_list.sort()
 print(my_list)
 
 print(my_list[3])
+print("Final list:", my_list)
